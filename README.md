@@ -1,5 +1,12 @@
 # Extremis – Role-Based Student Attendance Mobile Web App (PWA)
 
+**PBL Contribution**
+1. Bhavya Kumar Bhohra - 24EARAD031
+2. Aditya Dahuja - 24EARAD005
+3. Chinmay Bhatt - 24EARAD034
+4. Gaurav Jangid - 24EARAD052
+5. Saksham Jain - 24EARAD147
+
 **Extremis** is a production-grade, demo-ready, mobile-first Progressive Web Application (PWA) built with Java 17+, Spring Boot 3, Spring Security, Thymeleaf, and SQLite/MySQL via JPA.
 
 It replaces legacy desktop attendance tools with a GPS geofence-verified and live-camera selfie-verified attendance platform designed for students, faculty, and administrators.
