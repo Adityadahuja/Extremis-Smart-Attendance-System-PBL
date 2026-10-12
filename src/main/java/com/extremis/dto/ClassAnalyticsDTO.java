@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * Data Transfer Object representing aggregated analytics and performance distributions
- * for an academic class or batch.
+ * for an academic Section or Branch (mentor wise alltoment).
  */
 public class ClassAnalyticsDTO implements Serializable {
     private static final long serialVersionUID = 1L;
